@@ -1,0 +1,2 @@
+- Hosted at https://romain-jacob.github.io/cpsbench2018/
+- Redirected to from https:/cpsbench2018.ethz.ch/
